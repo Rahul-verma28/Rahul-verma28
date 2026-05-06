@@ -1,7 +1,8 @@
 
 ## 💫 About Me:
 
-[![](https://komarev.com/ghpvc/?username=Rahul-verma28&icon=1&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-verma28&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-verma28" /> </p>
+
 
 Full-stack engineer building AI-powered SaaS applications. Recently graduated from Galgotias University. Specialized in backend systems (NestJS, FastAPI), AI agents & RAG pipelines, and modern frontend development. Currently developing ResumeAgent—an intelligent platform automating resume-to-job-description matching with AI-driven email drafting. <br>Open to Full Stack (MERN) and backend engineering opportunities.
 
